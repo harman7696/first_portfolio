@@ -168,56 +168,12 @@
     margin-left: 95%;
     margin-top: -10px;
 }
-
-.col-lg-3{
-
-    text-align: center;
-    justify-content: center;
-    margin: 2%;
-    /* height: 200%; */
-    border: 1px solid black;
-    /* background-color: rgb(250, 246, 246);  */
-    border-radius: 10px;
-    box-shadow: 0px 3px black;
-}
-
-
-.contact_icons{
-    height: 30%;
-    width: 30%;
-    border: 10px solid white;
-    border-radius: 100px;
-}
-.contact_icons:hover{
-    height: 30%;
-    width: 30%;
-    margin-top: -4px;
-    margin-bottom: 4px;
-}
-
-
-.card_lower_half{
-    color: black;
-    font-weight: 500;
-    font-size: larger;
-}
-.card_lower_half:hover{
-    color: blue;
-    
-}
-.col-lg-3.linkedin
+.contact-name
 {
-    background-color: #4070f4;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 400;
 }
-.col-lg-3.instagram{
-    background-color: rgb(210, 61, 61);
-}
-.col-lg-3.email{
-    background-color: lightgray;
-}
-.col-lg-3.github{
-    background-color: rgb(39, 18, 39);
-}
-.col-lg-3.whatsapp{
-    background-color: rgb(82, 216, 82);
+.contact-icons{
+    height: fit-content;
 }
